@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hanan. I am a Ist year Master's student at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) 
+- 👋 Hi, I’m Hanan. I am a 1st year Master's student at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) 
 - 👀 I’m interested in the theory and applications of deep learning specifically in the realm of computer vision.
 - 📫 You can reach out to me at: hanan.ghani@mbzuai.ac.ae
 
